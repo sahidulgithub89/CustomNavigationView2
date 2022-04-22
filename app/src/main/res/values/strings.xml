@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Brahmanbaria Online Seba </string>
+    <string name="todo">TODO</string>
+    <string name="android_learning_tutoria">Android Learning</string>
+    <string name="trick_way_pro">Trick way Pro</string>
+    <string name="android">Android</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="open">Open </string>
+    <string name="close"> Close</string>
+    <string name="ayanbd64_gmail_com">ayanbd64@gmail.com</string>
+    <string name="feedback">Feedback</string>
+    <string name="social_link">Social Media</string>
+    <string name="share_link">Share</string>
+    <string name="send">Send</string>
+    <string name="setting">Setting</string>
+    <string name="ofline">ofline</string>
+    <string name="uplode">Uplode</string>
+    <string name="this_is_new_activity">This is new Activity</string>
+</resources>

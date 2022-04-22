@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <soup.neumorphism.NeumorphCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30sp"
+            app:neumorph_shapeType="flat">
+
+            <TextView
+                android:id="@+id/noticTest1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textColor="#E80909"
+                android:textSize="23dp"
+                android:singleLine="true"
+                android:scrollHorizontally="true"/>
+
+
+
+        </soup.neumorphism.NeumorphCardView>
+
+        <soup.neumorphism.NeumorphCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30sp"
+            app:neumorph_shapeType="flat">
+
+            <TextView
+                android:id="@+id/noticTest2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textColor="#E80909"
+                android:textSize="23dp"
+                android:singleLine="true"
+                android:scrollHorizontally="true"/>
+
+
+
+        </soup.neumorphism.NeumorphCardView>
+
+        <soup.neumorphism.NeumorphCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30sp"
+            app:neumorph_shapeType="flat">
+
+            <TextView
+                android:id="@+id/noticTest3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textColor="#E80909"
+                android:textSize="23dp"
+                android:singleLine="true"
+                android:scrollHorizontally="true"/>
+
+
+
+        </soup.neumorphism.NeumorphCardView>
+
+        <soup.neumorphism.NeumorphCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30sp"
+            app:neumorph_shapeType="flat">
+
+            <TextView
+                android:id="@+id/noticTest4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textColor="#E80909"
+                android:textSize="23dp"
+                android:singleLine="true"
+                android:scrollHorizontally="true"/>
+
+
+
+        </soup.neumorphism.NeumorphCardView>
+
+
+       <ImageView
+           android:id="@+id/img"
+           android:layout_width="250dp"
+           android:layout_height="250dp"/>
+
+
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
